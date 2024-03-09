@@ -1,0 +1,10 @@
+8 SUB0 F3 F6 F1 - - Yes Yes
+9 SUB0 F3 F6 F1 - - No No
+10 SUB0 F3 F6 F1 - - No No
+11 SUB0 F3 F6 F1 - - No No
+12 SUB0 F3 F6 F1 - - No No
+13 SUB0 F3 F6 F1 - - No No
+14 SUB0 F3 F6 F1 - - No No
+15 SUB0 F3 F6 F1 - - No No
+16 SUB0 F3 F6 F1 - - No No
+17 SUB0 F3 F6 F1 - - No No

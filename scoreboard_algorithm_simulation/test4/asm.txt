@@ -1,0 +1,12 @@
+31:28 27:24 23:20 19:16 15:12 11:8 7:4  3:0
+XX    OP    DST   SRC0  SRC1  -----IMM-----
+
+XX	  LD	F3    F0    F0    0x9 //F3 = MEM[0x9]
+XX    ADD   F5    F5    F3    0x0 //F5 = F5+F3
+XX    ST    F0    F0    F5    0x7 //MEM[0x7] = F5
+XX    LD    F2    F0    F0    0xA //F2 = MEM[0xA]
+XX    HALT
+
+MEM[0x7] = d'0.0
+MEM[0x9] = d'2.0
+MEM[0xA] = d'3.0
