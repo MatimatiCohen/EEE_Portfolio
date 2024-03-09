@@ -1,0 +1,5 @@
+flag_of_action : contains a struct of flag which is raised for a suitable action the user chose.
+user_actions: contains a struct for all user actions as flags. First all flags initialized, and then being set according to all the actions that was read from the user.
+reg_exp: includes the struct for regular expressions defined by a union for eace search option ([]().char). Holds functions to set a regular expression read by user.
+line_handler: reads line from file,  handles all the actions the user asked for and prints the suitable output.
+string_checks: contains useful general functions to check the correctness of the expression given by the user, and to help deal with lower case switch (-i).
