@@ -1,0 +1,22 @@
+worker repeat 1000 ; increment 0
+worker repeat 1001 ; increment 1
+worker repeat 1002 ; increment 2
+dispatcher_msleep 1000
+worker repeat 1003 ; increment 3
+worker decrement 13 ; repeat 1004 ; increment 4
+worker repeat 1005 ; increment 5
+worker repeat 1006 ; increment 6
+worker msleep 300 ; repeat 1007 ; increment 7
+worker repeat 1008 ; increment 8
+worker repeat 1009 ; increment 9
+worker repeat 1010 ; increment 10
+dispatcher_wait
+worker repeat 1003 ; increment 3
+worker decrement 13 ; repeat 1004 ; increment 4
+worker repeat 1005 ; increment 5
+worker repeat 1006 ; increment 6
+worker msleep 300 ; repeat 1007 ; increment 7
+worker repeat 1008 ; increment 8
+worker repeat 1009 ; increment 9
+worker repeat 1010 ; increment 10
+worker increment 15 ; decrement 11 ; msleep 5; increment 16 ; decrement 17 ; increment 20; decrement 21
