@@ -1,3 +1,0 @@
-C:\Users\USER\source\repos\Assembler\x64\Debug\Assembler.exe
-C:\Users\USER\source\repos\Isa-Project\assembler\x64\Debug\Assembler.exe
-C:\Users\user\source\repos\Isa-Project_final_final\Isa-Project\assembler\x64\Debug\asm.exe
