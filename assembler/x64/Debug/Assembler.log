@@ -1,0 +1,21 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Assembler.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  asm.c
+  pass1.c
+C:\Users\user\source\repos\Isa-Project_final_final\Isa-Project\assembler\pass1.c(29,77): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+C:\Users\user\source\repos\Isa-Project_final_final\Isa-Project\assembler\pass1.c(29,66): warning C4024: 'parse_line': different types for formal and actual parameter 5
+C:\Users\user\source\repos\Isa-Project_final_final\Isa-Project\assembler\pass1.c(130,16): warning C4013: 'isspace' undefined; assuming extern returning int
+  pass2.c
+C:\Users\user\source\repos\Isa-Project_final_final\Isa-Project\assembler\pass2.c(23,19): warning C4047: '=': 'FILE *' differs in levels of indirection from 'char **'
+C:\Users\user\source\repos\Isa-Project_final_final\Isa-Project\assembler\pass2.c(24,24): warning C4047: '=': 'FILE *' differs in levels of indirection from 'char **'
+C:\Users\user\source\repos\Isa-Project_final_final\Isa-Project\assembler\pass2.c(123,42): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\user\source\repos\Isa-Project_final_final\Isa-Project\assembler\pass2.c(123,56): warning C4047: '!=': 'char *' differs in levels of indirection from 'int'
+C:\Users\user\source\repos\Isa-Project_final_final\Isa-Project\assembler\pass2.c(123,56): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\user\source\repos\Isa-Project_final_final\Isa-Project\assembler\pass2.c(124,46): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\user\source\repos\Isa-Project_final_final\Isa-Project\assembler\pass2.c(124,63): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\user\source\repos\Isa-Project_final_final\Isa-Project\assembler\pass2.c(302,41): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\user\source\repos\Isa-Project_final_final\Isa-Project\assembler\pass2.c(344,24): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[50]'
+C:\Users\user\source\repos\Isa-Project_final_final\Isa-Project\assembler\pass2.c(344,15): warning C4024: 'strcpy_s': different types for formal and actual parameter 1
+C:\Users\user\source\repos\Isa-Project_final_final\Isa-Project\assembler\pass2.c(359,20): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[50]'
+C:\Users\user\source\repos\Isa-Project_final_final\Isa-Project\assembler\pass2.c(359,11): warning C4024: 'strcpy_s': different types for formal and actual parameter 1
+  Generating Code...
+  Assembler.vcxproj -> C:\Users\user\source\repos\Isa-Project_final_final\Isa-Project\assembler\x64\Debug\asm.exe

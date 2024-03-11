@@ -1,0 +1,4 @@
+C:\Users\USER\source\repos\Simulator\x64\Debug\Simulator.exe
+C:\Users\user\source\repos\simulator\Simulator\x64\Debug\Simulator.exe
+C:\Users\USER\source\repos\Isa-Project\simulator\Simulator\x64\Debug\sim.exe
+C:\Users\user\source\repos\Isa-Project_final_final\Isa-Project\simulator\Simulator\x64\Debug\sim.exe
