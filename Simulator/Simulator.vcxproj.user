@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <LocalDebuggerCommandArguments> ../../assembly_programs/triangle/memin.txt  ../../assembly_programs/triangle/diskin.txt ../../assembly_programs/triangle/irq2in.txt ../../assembly_programs/triangle/memout.txt ../../assembly_programs/triangle/regout.txt ../../assembly_programs/triangle/trace.txt ../../assembly_programs/triangle/hwregtrace.txt ../../assembly_programs/triangle/cycles.txt ../../assembly_programs/triangle/leds.txt ../../assembly_programs/triangle/display7seg.txt ../../assembly_programs/triangle/diskout.txt ../../assembly_programs/triangle/monitor.txt ../../assembly_programs/triangle/monitor.yuv</LocalDebuggerCommandArguments>
-    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
-  </PropertyGroup>
-</Project>
